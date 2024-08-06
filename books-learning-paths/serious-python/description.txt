@@ -1,0 +1,2 @@
+"Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More" by Julien Danjou
+Aimed at intermediate to advanced programmers, this book provides practical advice and exercises on various aspects of Python development, including best practices, deployment, and performance optimization.

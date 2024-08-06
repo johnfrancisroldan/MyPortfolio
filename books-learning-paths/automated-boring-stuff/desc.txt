@@ -1,0 +1,2 @@
+"Automate the Boring Stuff with Python" by Al Sweigart
+This book is great for beginners to intermediate learners. It covers practical programming tasks and includes numerous projects and exercises. The book emphasizes automation and helps you build scripts to handle everyday tasks.
